@@ -1,5 +1,5 @@
 import 'package:appmovies/constants.dart';
-import 'package:appmovies/models/movies.dart';
+import 'package:appmovies/models/movie.dart';
 import 'package:appmovies/screens/home/components/movie_card.dart';
 import 'package:flutter/material.dart';
 
