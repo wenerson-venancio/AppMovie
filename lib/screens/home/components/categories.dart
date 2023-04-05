@@ -15,7 +15,7 @@ class CategoryList extends StatefulWidget {
 
 class _CategoryListState extends State<CategoryList> {
   int selectedCategory = 0;
-  List<String> categories = ["In Theater", "Box Office", "Comming Son"];
+  List<String> categories = ["Em Alta", "Mais Assistidos", "Adicionados Recentementes"];
   @override
   Widget build(BuildContext context) {
     return Padding(

@@ -9,6 +9,6 @@ const kDefaultPadding = 20.0;
 
 const kDefaultShadown = BoxShadow(
   offset: Offset(0, 4),
-  blurRadius: 4,
+  blurRadius: 6,
   color: Colors.black
 );
